@@ -3,6 +3,7 @@
 # How I Passed the Databricks Machine Learning Associate Certification 🚀
 
 When I decided to take on the **[Databricks Machine Learning Associate Certification]([url](https://www.p2pcerts.com/databricks/databricks-machine-learning-associate-dumps.html))**, I knew it wouldn't be a walk in the park. But here I am, holding the certification (you’ll see it in the pic below) and sharing my journey to inspire others aiming to achieve this milestone!
+![Certification](https://github.com/user-attachments/assets/84138ff4-e3b1-4b71-9f64-2ce8bfef64ea)
 
 The AI and ML world is moving fast, and platforms like Databricks are at the forefront. Their focus on simplifying complex tasks like training large language models (LLMs) and integrating tools like MLflow made me want to explore their ecosystem deeper. The certification was the perfect opportunity to validate my skills.
 
@@ -53,12 +54,6 @@ The exam itself was 90 minutes long, with 45 questions. I found the interface sm
 - **Study smart**: Use resources like documentation, blogs, and platforms like p2pcerts to structure your preparation.
 - **Practice hands-on**: Experiment with Databricks notebooks, MLflow, and workflows.
 - **Mock exams are vital**: They prepare you for the real deal and highlight areas to improve.
-
-## My Certification Pic 🎉
-
-Here’s the proof of my achievement (insert pic here)! This certification not only validated my skills but also boosted my confidence in tackling real-world ML challenges.
-![Certification](https://github.com/user-attachments/assets/84138ff4-e3b1-4b71-9f64-2ce8bfef64ea)
-
 
 ## Final Thoughts ✨
 
